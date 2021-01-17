@@ -13,7 +13,7 @@ This is the dataset provided by DeepMindCreations with a aim to scrap the data f
 <img src="country_highest_total_cases.png"/>
 
 >> Activate cases of corona Continent wise
-<img src="continent_active_case.png"/>
+<img src="contient_active_case.png"/>
 
 >> Total cases per million population
 <img src="total_case_per_million.png"/>
